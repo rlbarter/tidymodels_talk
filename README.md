@@ -8,4 +8,4 @@ Additional resources:
 
 - [Tidy modeling with R book](https://www.tmwr.org/)
 
-- [Tidy models webpage][https://www.tidymodels.org/]
+- [Tidy models webpage](https://www.tidymodels.org/)
