@@ -1,0 +1,8 @@
+install.packages("tidyverse")
+install.packages("tidymodels")
+install.packages("mlbench")
+install.packages("glmnet")
+install.packages("randomForest")
+install.packages("ranger")
+install.packages("e1071")
+install.packages("bnstruct")

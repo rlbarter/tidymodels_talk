@@ -1,6 +1,8 @@
 # Tidymodels R Ladies talk
 
-Hit the "Launch mybinder" tab to launch an interactive version of this talk!
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rlbarter/tidymodels_talk/HEAD?filepath=tidymodels_talk.ipynb)
+
+Hit the "launch binder" tab to launch an interactive version of this talk!
 
 Based on my [blog post](http://www.rebeccabarter.com/blog/2020-03-25_machine_learning/). Talk prepared for R Ladies Baltimore on March 9 2021.
 
